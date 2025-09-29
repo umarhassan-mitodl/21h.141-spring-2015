@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, requirements, grading, readings, writing help,
   and policies on cheating and plagiarism.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -115,16 +117,16 @@ If you want more background reading on this period in European history, consult:
 
 Hunt, Lynn, Thomas R. Martin, et al. _The Making of the West: Peoples and Culture–A Concise History, Vol. I: To 1740_. 3rd ed. Bedford / St. Martin's, 2010. ISBN: 9780312554590.
 
-Ginzburg, Carlo. _The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller_. Translated by John and Anne Tedeschi. John Hopkins University Press, 1992. ISBN: 9780801843877. \[Preview with {{% resource_link "a61ae182-a05f-40b7-861f-c9ca8e41dc90" "Google Books" %}}\]
+Ginzburg, Carlo. _The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller_. Translated by John and Anne Tedeschi. John Hopkins University Press, 1992. ISBN: 9780801843877. \[Preview with [Google Books](http://books.google.com/books?id=4IUREWq_o3MC&pg=PAfrontcover)\]
 
-Descartes, René. _Discourse on Method_. 3rd ed. Hackett Publishing Company, Incorporation, 1998. ISBN: 9780872204225. \[Preview with {{% resource_link "ec10e5da-1d21-4503-83c2-4dc9af9eda79" "Google Books" %}}\]
+Descartes, René. _Discourse on Method_. 3rd ed. Hackett Publishing Company, Incorporation, 1998. ISBN: 9780872204225. \[Preview with [Google Books](http://books.google.com/books?id=URMSbDE9JvgC&pg=PAfrontcover)\]
 
 Writing Help
 ------------
 
-The {{% resource_link "554addff-5370-4389-a885-2e60fef39a90" "Writing and Communication Center" %}} at MIT offers _**free**_ one-on-one **professional** advice from lecturers (who all have advanced degrees and who are all are published writers) about all types of academic, creative, and professional writing and about all aspects of oral presentations (including practicing your presentations). We help you think your way more deeply into your topic, no matter what department or discipline you are in.
+The [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) at MIT offers _**free**_ one-on-one **professional** advice from lecturers (who all have advanced degrees and who are all are published writers) about all types of academic, creative, and professional writing and about all aspects of oral presentations (including practicing your presentations). We help you think your way more deeply into your topic, no matter what department or discipline you are in.
 
 Cheating and Plagiarism
 -----------------------
 
-The web now hosts many sites which offer college level papers of varying quality on a variety of topics. I am well acquainted with these sites, and with others that offer detection services to professors. Buying a paper written by someone else and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism. MIT has strict policies against both activities that I will fully enforce. For the appropriate MIT definitions and policies, visit {{% resource_link "3e9c8637-cbc7-4888-83b4-2ea7b130f75a" "Academic Integrity at MIT: A Handbook for Students" %}}. If you are uncertain about what constitutes cheating or plagiarism, please contact me before submitting the work in question.
+The web now hosts many sites which offer college level papers of varying quality on a variety of topics. I am well acquainted with these sites, and with others that offer detection services to professors. Buying a paper written by someone else and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism. MIT has strict policies against both activities that I will fully enforce. For the appropriate MIT definitions and policies, visit [Academic Integrity at MIT: A Handbook for Students](http://integrity.mit.edu/). If you are uncertain about what constitutes cheating or plagiarism, please contact me before submitting the work in question.

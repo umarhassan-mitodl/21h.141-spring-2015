@@ -5,6 +5,8 @@ description: 'This is a file that contains information regarding renaissance to 
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/203a7f810a12292cd87dfefe74a72621_MIT21H_141S15_Bookofhour.pdf
 file_size: 3880793
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

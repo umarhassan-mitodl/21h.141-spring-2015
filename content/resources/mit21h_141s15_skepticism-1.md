@@ -5,6 +5,8 @@ description: This resource contains information regarding assignments - student 
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/8e9655771e47ba5e3255bb3f030a4860_MIT21H_141S15_Skepticism.pdf
 file_size: 378368
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

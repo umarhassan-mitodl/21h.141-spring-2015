@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of course topics, class activities,
   and assignment due dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -91,9 +93,9 @@ Making Books
 
 ### Screening
 
-Avi Michael. "{{% resource_link "4c461195-f979-46a2-8419-391f919b3d55" "Chancery Papermaking" %}}." May 28, 2013. YouTube.
+Avi Michael. "[Chancery Papermaking](https://www.youtube.com/watch?v=e-PmfdV_cZU)." May 28, 2013. YouTube.
 
-"{{% resource_link "475f35d9-d18a-4418-98d2-6aca8aea3d4a" "The Making of a Renaissance Book" %}}" dvd. 1969. Rare Book School.
+"[The Making of a Renaissance Book](https://www.youtube.com/watch?v=ZHprwjOJIn8)" dvd. 1969. Rare Book School.
 
 
 {{< tdclose >}}
