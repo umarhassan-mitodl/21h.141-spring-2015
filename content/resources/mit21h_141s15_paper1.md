@@ -4,8 +4,6 @@ description: This resource contains information regarding assignments - paper 1.
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/fb564b07215e1329632f99cae6f3e776_MIT21H_141S15_Paper1.pdf
 file_size: 125112
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

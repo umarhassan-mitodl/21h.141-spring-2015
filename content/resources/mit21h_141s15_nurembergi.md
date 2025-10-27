@@ -5,8 +5,6 @@ description: This is a file that contains information regarding nuremberg chroni
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/bbe7bd1d8fada38908e8d2afb1c7caad_MIT21H_141S15_NurembergI.pdf
 file_size: 5979142
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This is a file that contains information regarding renaissance To 
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/8a8806a8ceaeac761aaacd79810618bf_MIT21H_141S15_Christian.pdf
 file_size: 3553040
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

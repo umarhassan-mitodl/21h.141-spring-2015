@@ -4,8 +4,6 @@ description: This resource contains information regarding assignments - debate 1
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/89ddb279d773921974d170b863941fc5_MIT21H_141S15_Debate1.pdf
 file_size: 153717
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

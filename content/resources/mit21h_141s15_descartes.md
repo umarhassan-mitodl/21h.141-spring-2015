@@ -5,8 +5,6 @@ description: 'This is a file that contains information regarding renaissance to 
 file: /courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/b8d42b0998fc12e663f042a4e8cbe2c3_MIT21H_141S15_Descartes.pdf
 file_size: 1379110
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
